@@ -25,8 +25,14 @@ Side lab tuỳ chọn (bonus): `src/optional_llm_api/solution/solution.py`.
 
 ## Tự kiểm tra trước khi nộp
 
-- [ ] Tên repository đúng mẫu ở trên.
-- [ ] `report/individual/` có đủ 4 file; file báo cáo đã đổi tên, không còn tên `MSSV_HoTen.md`.
-- [ ] Notebook không chứa API key (tìm `sk-` trong file trước khi upload).
-- [ ] Không có email, số điện thoại trong notebook hay báo cáo.
-- [ ] Mở link repository ở cửa sổ ẩn danh: xem được, không bị 404.
+- [ ] Tên repository đúng mẫu `K5-L3-DAY01-HoVaTen-MSSV-AIFoundation`.
+- [ ] `report/individual/` có đủ 4 tệp; hiện còn thiếu `hand_calc.jpg`.
+- [x] Báo cáo đã đổi tên thành `2A202603810_PhanTranManhCuong.md`.
+- [x] Đã chép `day01_lab.ipynb` và `lab1_report.json` vào `report/individual/`.
+- [x] Không tìm thấy API key dạng `sk-...` hoặc `AIza...` trong notebook.
+- [ ] Rà soát số điện thoại trong nội dung SMS mẫu của notebook theo yêu cầu nộp bài.
+- [ ] Mở link repository ở cửa sổ ẩn danh để xác nhận repository Public và truy cập được.
+
+### Trạng thái hiện tại
+
+Bản notebook đã chép có các cell thử thách/bonus được bổ sung và đáp án số trong `HAND_CALC`, nhưng chưa chạy lại nên output hiện tại chưa phản ánh các chỉnh sửa đó. `hand_calc.jpg` do học viên bổ sung sau. Checklist tên repository và quyền truy cập Public cần xác nhận trên GitHub.
